@@ -16,6 +16,7 @@ Follow the positional arguments:
 - Rank
 - Rarity
 - Crypto
+
 ```mintNFT(NFT_name, NFT_rank, NFT_rarity, NFT_cryptoType)```
 
 ## Help
