@@ -21,8 +21,11 @@ Follow the positional arguments:
 
 ## Help
 There are no known issues so far. If you ever find one, email me at: 
+
 p.tecson.rizal@gmail.com
+
 as for Metacrafters, email me at:
+
 423004024@ntc.edu.ph 
 ## Authors
 Marco Tecson @Mordical62645
