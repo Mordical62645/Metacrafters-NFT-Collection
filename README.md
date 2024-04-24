@@ -1,18 +1,27 @@
-Metacrafters NFT Collection
-
+# Metacrafters NFT Collection
 a mint NFT collection simulation implemented using JavaScript
 
-This project allows users to mint or generate card NFTs. Follow the positional arguments:
+## Description
+This project allows users to mint or generate card NFTs. 
+This project serves as the first project assesment for Metacrafter's JavaScript Course 
+covered by the National Teachers College.
+
+## Getting Started
+### Installing
+Run the code through Gitpod or any IDE available that can run JavaScript code.
+
+### Executing Program
+Follow the positional arguments:
 - Name
 - Rank
 - Rarity
 - Crypto
 
-This project serves as the first project assesment for Metacrafter's JavaScript Course 
-covered by the National Teachers College.
+## Help
+There are no known issues so far. If you ever find one, email me: p.tecson.rizal@gmail.com
 
-All thanks to:
-- Metacrafters
-- The National Teachers College
+## Authors
+Marco Tecson @Mordical62645
 
-Date modified/created: April 16, 2024
+## License
+This project is not licensed but is under the name of Metacrafters and The National Teachers College.
